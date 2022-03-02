@@ -1,0 +1,9 @@
+com\tabeldata\bootcamp\web\dao\KategoryDao.class
+com\tabeldata\bootcamp\web\controller\HaloController.class
+com\tabeldata\bootcamp\web\controller\Controller.class
+com\tabeldata\bootcamp\web\dao\ExampleDao.class
+com\tabeldata\bootcamp\web\model\Example.class
+com\tabeldata\bootcamp\web\dao\ExampleDao$RowMapperInner.class
+com\tabeldata\bootcamp\web\SpringbootWebApplication.class
+com\tabeldata\bootcamp\web\dao\KategoryDao$RowMapperInner.class
+com\tabeldata\bootcamp\web\model\Kategori.class
